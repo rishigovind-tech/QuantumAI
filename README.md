@@ -15,7 +15,7 @@ The QuantumAI Landing Page is a modern, AI-driven, and responsive landing page b
 - **React.js** (Frontend)
 - **Tailwind CSS** (Styling)
 
-##Screenshot
+## Screenshot
 ![Screenshot](src/ai.png)
 
 
